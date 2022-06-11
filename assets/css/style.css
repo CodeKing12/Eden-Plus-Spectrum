@@ -8869,3 +8869,31 @@ header .header-top-bar .top-social-icons a:hover {
 #my_nanogallery2 a {
   background: #000;
 }
+
+.nGY2GThumbnailTitle {
+  color: black;
+  background-color: transparent;
+  margin: 0 10px;
+}
+
+.nGY2 .nGY2GThumbnailLabel {
+  background-color: #001659 !important;
+  bottom: -30px !important;
+}
+
+.nGY2 .nGY2GThumbnailAlbumTitle, .nGY2 .nGY2GThumbnailImageTitle {
+	color: #fff;
+  text-shadow: unset !important;
+	margin: 5px 1px 1px;
+	white-space: nowrap;
+	overflow: hidden;
+	display: inline-block;
+}
+
+.nGY2 .nGY2GThumbnail {
+  overflow: unset !important;
+}
+
+.about-section .img-box {
+  width: 200px;
+}
