@@ -8865,3 +8865,7 @@ header .header-top-bar .top-social-icons a:hover {
 .img-block-pop-video img {
   max-height: 700px;
 }
+
+#my_nanogallery2 a {
+  background: #000;
+}

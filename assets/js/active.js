@@ -286,5 +286,8 @@ $("#my_nanogallery2").nanogallery2({
     "thumbnailDisplayInterval": 200,
     "thumbnailGutterWidth": 40,
     "thumbnailGutterHeight": 25,
+    "thumbnailLabel": {
+        "position": "overImageOnBottom",
+        "display": false
+    },
   });
-  
