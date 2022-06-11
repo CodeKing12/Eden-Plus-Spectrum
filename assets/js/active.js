@@ -277,3 +277,14 @@ Author: RRDevs
     loader();
 
 })(jQuery); // End jQuery
+
+$("#my_nanogallery2").nanogallery2({
+    thumbnailHeight:  300,
+    thumbnailWidth:   370,
+    "thumbnailBorderVertical": 0,
+    "thumbnailBorderHorizontal": 0,
+    "thumbnailDisplayInterval": 200,
+    "thumbnailGutterWidth": 40,
+    "thumbnailGutterHeight": 25,
+  });
+  
