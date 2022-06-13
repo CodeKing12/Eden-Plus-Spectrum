@@ -8362,10 +8362,14 @@ header .header-top-bar .top-social-icons a:hover {
 
 .footer-2 .footer-widgets-wrapper {
   background-color: #001659;
+  /* background: linear-gradient(rgba(1, 1, 1, 0.4), rgba(1, 1, 1, 0.4)), url('../img/gallery/eps.jpeg') no-repeat;
+  background-size: 100% 100%; */
 }
 
 .footer-2 .footer-cta-wrapper {
   background: #001659;
+  /* position: relative;
+  top: 100px; */
 }
 
 .footer-2 .footer-cta-wrapper::after {
@@ -8895,5 +8899,9 @@ header .header-top-bar .top-social-icons a:hover {
 }
 
 .about-section .img-box {
+  width: 200px;
+}
+
+.new-logos {
   width: 200px;
 }
