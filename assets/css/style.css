@@ -8829,6 +8829,10 @@ header .header-top-bar .top-social-icons a:hover {
   filter: grayscale();
 }
 
+.single-brand-logo img {
+  margin: 0 auto;
+}
+
 .offset-menu.show {
   overflow: overlay;
 }
