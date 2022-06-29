@@ -293,3 +293,51 @@ $("#my_nanogallery2").nanogallery2({
     },
     "allowHTMLinData": true,
   });
+
+  $("#my_nanogallery3").nanogallery2({
+    thumbnailHeight:  300,
+    thumbnailWidth:   370,
+    "thumbnailBorderVertical": 0,
+    "thumbnailBorderHorizontal": 0,
+    "thumbnailDisplayInterval": 200,
+    "thumbnailGutterWidth": 40,
+    "thumbnailGutterHeight": 50,
+    "thumbnailLabel": {
+        "position": "OnBottom",
+        "titleMultiLine": true
+        // "display": false
+    },
+    "allowHTMLinData": true,
+  });
+
+  $("#my_nanogallery4").nanogallery2({
+    thumbnailHeight:  300,
+    thumbnailWidth:   370,
+    "thumbnailBorderVertical": 0,
+    "thumbnailBorderHorizontal": 0,
+    "thumbnailDisplayInterval": 200,
+    "thumbnailGutterWidth": 40,
+    "thumbnailGutterHeight": 50,
+    "thumbnailLabel": {
+        "position": "OnBottom",
+        "titleMultiLine": true
+        // "display": false
+    },
+    "allowHTMLinData": true,
+  });
+
+  $("#my_nanogallery5").nanogallery2({
+    thumbnailHeight:  300,
+    thumbnailWidth:   370,
+    "thumbnailBorderVertical": 0,
+    "thumbnailBorderHorizontal": 0,
+    "thumbnailDisplayInterval": 200,
+    "thumbnailGutterWidth": 40,
+    "thumbnailGutterHeight": 50,
+    "thumbnailLabel": {
+        "position": "OnBottom",
+        "titleMultiLine": true
+        // "display": false
+    },
+    "allowHTMLinData": true,
+  });

@@ -8887,6 +8887,7 @@ header .header-top-bar .top-social-icons a:hover {
 .nGY2 .nGY2GThumbnailLabel {
   background-color: #001659 !important;
   bottom: -30px !important;
+  display: none !important;
 }
 
 .nGY2 .nGY2GThumbnailAlbumTitle, .nGY2 .nGY2GThumbnailImageTitle {
@@ -8895,7 +8896,7 @@ header .header-top-bar .top-social-icons a:hover {
 	margin: 5px 1px 1px;
 	white-space: nowrap;
 	overflow: hidden;
-	display: inline-block;
+	display: none;
 }
 
 .nGY2 .nGY2GThumbnail {
@@ -8908,4 +8909,14 @@ header .header-top-bar .top-social-icons a:hover {
 
 .new-logos {
   width: 200px;
+}
+
+.gallery-header {
+  margin-top: 120px;
+  padding: 0 20px;
+  margin-bottom: 10px;
+}
+
+.nanogallery_gallerytheme_dark_my_nanogallery5 .nGY2GThumbnail_l1 {
+  margin: 15px 0;
 }
